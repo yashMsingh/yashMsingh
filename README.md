@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=600&size=24&pause=1200&color=FFD700&background=00000000&center=true&vCenter=true&width=920&lines=Building+production-grade+AI+systems;RAG+pipelines+%7C+LLM+fine-tuning+%7C+agent+design;Bridging+research+and+enterprise+AI;Full-stack+engineering+with+FastAPI+%7C+React+%7C+PyTorch;Smart+India+Hackathon+2025+winner" alt="Typing introduction" />
 </p>
 
-<p align="center"><sub>Serif-forward profile theme using Times New Roman where renderer-supported.</sub></p>
+<p align="center"><sub></sub></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yashMsingh&label=Profile+Views&color=B8860B&style=for-the-badge" alt="Profile Views" />
@@ -56,7 +56,6 @@ Location    : Pune, Maharashtra, India
 Education   : B.Tech AI & Data Science @ VIIT Pune (CGPA: 9.08)
 Focus       : Production ML Systems · RAG Pipelines · Autonomous Agents
 Internships : Eonverse (AI) · Primus Techsystems (Full-Stack) · TechKnowGreen (Data)
-Achievement : Smart India Hackathon 2025 — Internal Winner
 Hobbies     : Building AI agents, blockchain DApps, browser games
 Email       : singhyash3103@gmail.com
 ```
