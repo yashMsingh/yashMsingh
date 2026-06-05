@@ -260,20 +260,16 @@ Email       : singhyash3103@gmail.com
 
 ---
 
-<!-- ██ SNAKE ANIMATION (setup required — see instructions below) -->
-<h2 align="center">🐍 Contribution Snake</h2>
-
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashMsingh/yashMsingh/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashMsingh/yashMsingh/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yashMsingh/yashMsingh/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/yashMsingh/yashMsingh/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/yashMsingh/yashMsingh/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/yashMsingh/yashMsingh/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
-
-> 💡 **Snake setup:** In your profile repo (`yashMsingh/yashMsingh`), create `.github/workflows/snake.yml` — see instructions at the bottom of this file.
-
----
 
 <!-- ██ QUOTE -->
 <p align="center">
