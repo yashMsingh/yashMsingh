@@ -1,11 +1,11 @@
 <!-- YASH KUMAR SINGH · GitHub Profile README -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:B8860B,100:C0C0C0&height=220&section=header&text=Yash%20Kumar%20Singh&font=Times%20New%20Roman&fontSize=52&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20ML%20Systems%20Specialist&descAlignY=58&descSize=18&descColor=C0C0C0" alt="Profile header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:B8860B,100:C0C0C0&height=220&section=header&text=Yash%20Kumar%20Singh&font=Times+New+Roman&fontSize=52&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20ML%20Systems%20Specialist&descAlignY=58&descSize=18&descColor=C0C0C0" alt="Profile header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=600&size=24&pause=1200&color=FFD700&background=00000000&center=true&vCenter=true&width=920&lines=Building+production-grade+AI+systems;RAG+pipelines+%7C+LLM+fine-tuning+%7C+agent+design;Bridging+research+and+enterprise+AI;Full-stack+engineering+with+FastAPI+%7C+React+%7C+PyTorch;Smart+India+Hackathon+2025+internal+winner" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=600&size=24&pause=1200&color=FFD700&background=00000000&center=true&vCenter=true&width=920&lines=Building+production-grade+AI+systems;RAG+pipelines+%7C+LLM+fine-tuning+%7C+agent+design;Bridging+research+and+enterprise+AI;Full-stack+engineering+with+FastAPI+%7C+React+%7C+PyTorch;Smart+India+Hackathon+2025+winner" alt="Typing introduction" />
 </p>
 
 <p align="center"><sub>Serif-forward profile theme using Times New Roman where renderer-supported.</sub></p>
@@ -254,7 +254,7 @@ Email       : singhyash3103@gmail.com
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C0C0C0,50:B8860B,100:000000&height=120&section=footer&text=Thanks%20for%20visiting&font=Times%20New%20Roman&fontSize=22&fontColor=FFD700&animation=twinkling" alt="Footer wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C0C0C0,50:B8860B,100:000000&height=120&section=footer&text=Thanks%20for%20visiting&font=Times+New+Roman&fontSize=22&fontColor=FFD700&animation=twinkling" alt="Footer wave" />
 </p>
 
 <p align="center"><i>"The goal is to turn data into information, and information into insight." — Carly Fiorina</i></p>
