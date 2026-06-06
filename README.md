@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=600&size=24&pause=1200&color=FFD700&background=00000000&center=true&vCenter=true&width=920&lines=Building+production-grade+AI+systems;RAG+pipelines+%7C+LLM+fine-tuning+%7C+agent+design;Bridging+research+and+enterprise+AI;Full-stack+engineering+with+FastAPI+%7C+React+%7C+PyTorch;Smart+India+Hackathon+2025+winner" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=600&size=24&pause=1200&color=FFD700&background=00000000&center=true&vCenter=true&width=920&lines=Building+production-grade+AI+systems;RAG+pipelines+%7C+LLM+fine-tuning+%7C+agent+design;Bridging+research+and+enterprise+AI;Full-stack+engineering+with+FastAPI+%7C+React+%7C+PyTorch;" alt="Typing introduction" />
 </p>
 
 <p align="center"><sub></sub></p>
