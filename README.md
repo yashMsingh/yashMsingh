@@ -21,6 +21,7 @@
 ---
 
 <h3 align="center">◆ Connect With Me</h3>
+<h3 align="center">◆ Connect With Me</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/yash-k-singh" target="_blank">
@@ -44,8 +45,11 @@
   <a href="https://www.youtube.com/@yashftyash" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-@yashftyash-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000" alt="YouTube" />
   </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/_yash_3103/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-_yash__3103-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=000000" alt="LeetCode" />
+  </a>
 </p>
-
 ---
 
 <h2 align="center">◆ About Me</h2>
