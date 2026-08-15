@@ -57,7 +57,7 @@
 ```yaml
 Name        : Yash Kumar Singh
 Location    : Pune, Maharashtra, India
-Education   : B.Tech AI & Data Science @ VIIT Pune (CGPA: 9.08)
+Education   : B.Tech AI & Data Science @ VIIT Pune (CGPA: 9.14)
 Focus       : Production ML Systems · RAG Pipelines · Autonomous Agents
 Internships : Eonverse (AI) · Primus Techsystems (Full-Stack) · TechKnowGreen (Data)
 Hobbies     : Building AI agents, blockchain DApps, browser games
